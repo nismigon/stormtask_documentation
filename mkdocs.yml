@@ -1,5 +1,10 @@
 site_name: StormTask Documentation
 nav: 
   - Home : index.md
+  - API :
+    - Authentication : api/authenticate.md
+    - User : api/user.md
+    - Group : api/group.md
+    - Task : api/task.md
 theme:
   name: material
