@@ -1,0 +1,5 @@
+site_name: StormTask Documentation
+nav: 
+  - Home : index.md
+theme:
+  name: material
