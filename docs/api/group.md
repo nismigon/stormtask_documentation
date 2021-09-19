@@ -6,7 +6,7 @@ The API provide all the routes needed by the developer to manage groups
 
 To access to this route, you have to be authenticated.
 
-Method an path : `GET /group`
+Method and path : `GET /group`
 
 No request body.
 
